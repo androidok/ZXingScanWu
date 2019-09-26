@@ -1,8 +1,8 @@
-﻿# Fragment
-这是Fragment简单使用的demo，包括左侧显示和底部显示
+﻿# 仿支付宝扫描二维码
+这是仿支付宝扫描二维码的简单使用demo
 
-先上效果图（ps用不大好，凑合看效果图吧，哈）：
+先上效果图：
 
-![1](https://github.com/wuqingsen/Plan/blob/master/%E6%95%88%E6%9E%9C%E5%9B%BE/fragment.gif)  
+![1](https://github.com/wuqingsen/ZXingScanWu/blob/master/gif5.gif)  
 
 
